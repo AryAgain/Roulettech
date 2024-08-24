@@ -30,11 +30,7 @@ Ensure you have the following installed on your local machine:
 
 ### Backend Setup
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/recipe-suggestion-app.git
-   cd recipe-suggestion-app
+1. Clone the repository
 
 2. Navigate to the backend directory:
     
