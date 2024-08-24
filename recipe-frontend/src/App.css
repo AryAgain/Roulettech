@@ -1,0 +1,36 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to right, #f8f9fa, #e0eafc);
+  color: #343a40;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.App {
+  text-align: center;
+  width: 100%;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+
+.app-title {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #007bff;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.dish-name {
+  font-size: 1.5rem;
+  margin-top: 20px;
+  color: #495057;
+  font-weight: bold;
+}
