@@ -2,6 +2,10 @@
 
 A simple and elegant web application that suggests random recipes and provides a cooking timer for each dish. The frontend is built using React.js, and the backend is powered by Django with Django REST Framework.
 
+<img width="376" alt="Screenshot 2024-08-23 at 11 31 44 PM" src="https://github.com/user-attachments/assets/7baa300d-e6ce-47fe-8499-c723cbc5e21c">
+
+
+
 ## Features
 
 - **Random Recipe Suggestion**: Click a button to get a randomly selected dish from a variety of cuisines.
